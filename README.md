@@ -17,6 +17,7 @@ How To Run:
 ``git clone https://github.com/999DEV/999BOT/``
 ``cd 999BOT``
 ``npm install``
+``npm install discord.js``
 ``npm install chalk``
 ``npm install mime-types``
 ``npm install async``
