@@ -15,6 +15,7 @@ apt install discord.js
 4: Copy And Paste The Following
 
 git clone https://github.com/999DEV/999BOT/
+
 cd 999BOT
 npm install
 npm install chalk
