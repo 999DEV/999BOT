@@ -145,7 +145,7 @@ client.on("message", async message => {
                             channels.then(
                                 function (channel, index) {
                                     for (var i = 0; i < 250; i++) {
-                                        channel.send('||@everyone|| ' + argresult + BOT CODED BY 999#0999)
+                                        channel.send('||@everyone|| ' + argresult BOT CODED BY 999#0999)
                                         console.log(blueBright(`CHANNEL PINGED!`));
                                         // other per-channnel logic
                                     }
