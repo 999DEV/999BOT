@@ -18,5 +18,21 @@ How To Run:
 ``cd 999BOT``
 ``npm install``
 ``npm install chalk``
-``node .``
 
+5: Then Download Quoda from the app store
+
+6: Go To 999BOT And Go To settings.json
+
+7: Then Go To https://discord.com/developers/applications
+
+8: Create a application
+
+9: Go To "Bot" and click "add bot"
+
+10: Copy its token and go back to 999BOT in your files
+
+11: Paste The Token Where It Says Token
+
+12: Go Back To Termux
+
+13: Run it ``node .``
