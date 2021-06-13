@@ -1,5 +1,5 @@
 {
-  "name": "999BOT",
+  "name": "999Nuker",
   "version": "1.0.0",
   "description": "| 999BOT THE NUKE/RAID BOT |",
   "main": "index.js",
@@ -10,12 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/999DEV/999BOT.git"
   },
-  "author": "",
+  "author": "999RAIDS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/999DEV/999BOT/issues"
   }
-  "dependencies": {
+  "dependencies": 
+{
     "chalk": "^4.1.1",
     "discord.js": "^12.5.3"
   }
