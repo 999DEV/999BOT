@@ -18,6 +18,8 @@ How To Run:
 ``cd 999BOT``
 ``npm install``
 ``npm install chalk``
+``npm install mime-types``
+``npm install async``
 
 5: Then Download Quoda from the app store
 
